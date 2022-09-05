@@ -1,6 +1,10 @@
-# old_game
+# HASH
 
-A new Flutter project.
+Aplicação de lógica em um jogo muito comum - JOGO DA VELHA
+
+Jogo da velha e a sua lógica implementada com o layout pronto para sua diversão.
+Base de entendimento suporte atraves do canal: Elite 37 do Youtube,
+link: https://www.youtube.com/watch?v=HfgC3ZAu7vg
 
 ## Getting Started
 
